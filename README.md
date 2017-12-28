@@ -1,5 +1,6 @@
-[![Build Status](https://travis-ci.org/josealburgos/CourseraPackage.svg?branch=master)](https://travis-ci.org/josealburgos/CourseraPackage)
-[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/paesibassi/BuildingRPackage?branch=master&svg=true)](https://ci.appveyor.com/project/paesibassi/BuildingRPackage)
+[![Travis-CI Build Status](https://travis-ci.org/tuliobaars/FARSpackage.svg?branch=master)](https://travis-ci.org/tuliobaars/FARSpackage)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/tuliobaars/FARSpackage?branch=master&svg=true)](https://ci.appveyor.com/project/tuliobaars/FARSpackage)
+
 
 
 # FARSpackage
