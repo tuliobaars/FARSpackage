@@ -1,9 +1,13 @@
 Package: FARSpackage
-Title: What the Package Does (one line, title case)
+Type: Package
+Title: Package to show yearly number of accidents in each state.
 Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Author: Tulio Baars <tuliobaars@gmail.com>
+Maintainer: Tulio Baars <tuliobaars@gmail.com>
+Description: Graphs on a map of the USA accidents by State uses data from US National Highway Traffic Safety Administration.
 Depends: R (>= 3.4.1)
-License: What license is it under?
+Imports: readr, dplyr, magrittr, tidyr, maps, testthat
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 6.0.1
