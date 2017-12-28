@@ -1,7 +1,7 @@
 Package: FARSpackage
 Type: Package
 Title: Package to show yearly number of accidents in each state.
-Version: 0.0.0.9000
+Version: 0.0.1.000
 Author: Tulio Baars <tuliobaars@gmail.com>
 Maintainer: Tulio Baars <tuliobaars@gmail.com>
 Description: Graphs on a map of the USA accidents by State uses data from US National Highway Traffic Safety Administration.
